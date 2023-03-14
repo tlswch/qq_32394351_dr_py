@@ -1,3 +1,6 @@
+导入文件https://gitcode.net/qq_32394351/dr_py.git
+https://agit.ai/lcx/dr_py.git
+
 [comment]: <> (#### 🚀dr模板的python实现🚀)
 <div align="center">
 <h4>🚀第二派-dr模板的python实现🚀</h4>
